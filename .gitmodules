@@ -1,9 +1,9 @@
 [submodule "ABPlayerController"]
 	path = ABPlayerController
-	url = https://github.com/jenghis/abplayercontroller.git
+	url = https://github.com/jgferrer/abplayercontroller.git
 [submodule "MediaKeys"]
 	path = MediaKeys
-	url = https://github.com/jenghis/mediakeys.git
+	url = https://github.com/jgferrer/mediakeys.git
 [submodule "AirTunes"]
 	path = AirTunes
-	url = https://github.com/jenghis/airtunes.git
+	url = https://github.com/jgferrer/airtunes.git
