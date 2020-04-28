@@ -1,9 +1,12 @@
 [submodule "ABPlayerController"]
 	path = ABPlayerController
 	url = https://github.com/jgferrer/abplayercontroller.git
+	branch = master
 [submodule "MediaKeys"]
 	path = MediaKeys
 	url = https://github.com/jgferrer/mediakeys.git
+	branch = master
 [submodule "AirTunes"]
 	path = AirTunes
 	url = https://github.com/jgferrer/airtunes.git
+	branch = master
