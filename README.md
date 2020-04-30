@@ -19,6 +19,7 @@ If you prefer building from source, start by cloning the repo with the command:
 
 ~~~shell
 git clone --recurse-submodules https://github.com/jgferrer/airbass
+cd airbass
 git submodule update --remote --recursive
 ~~~
 
